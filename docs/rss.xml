@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Bluewhale</title>
+<link>https://bluewhale-protocol.com</link>
+<description>DeFi dashboard and decentralized protocol on Klaytn</description>
+<language>ko</language>
+<pubDate>Wed, 30 Apr 2021 09:14:29 +0900</pubDate>
+<generator>Bluewhale</generator>
+<ttl>100</ttl>
+<managingEditor>Bluewhale</managingEditor>
+<item>
+<title>Klaytn DeFi 자산운용</title>
+<link>https://bluewhale-protocol.com/klaytn/trust</link>
+<description></description>
+<category>자산운용</category>
+<category>풀</category>
+<category>재예치</category>
+<category>스테이블</category>
+<category>오토팜</category>
+<category>디파이</category>
+<category>클레이</category>
+<category>클레이튼</category>
+<category>클레이스왑</category>
+<category>벨트</category>
+<category>김치</category>
+<category>프리미엄</category>
+<category>pool</category>
+<category>stable</category>
+<category>autofarm</category>
+<category>defi</category>
+<category>klay</category>
+<category>klaytn</category>
+<category>klayswap</category>
+<category>belt</category>
+<category>kimchi</category>
+<category>kusdt</category>
+<category>kdai</category>
+<category>usdt</category>
+<category>dai</category>
+<author>Bluewhale</author>
+<guid isPermaLink="true">https://bluewhale-protocol.com/klaytn/trust</guid>
+<pubDate>Wed, 28 Apr 2021 09:14:31 +0900</pubDate>
+</item>
+<item>
+<title>KUSDT-KDAI 보상 자동 재예치</title>
+<link>https://bluewhale-protocol.com/klaytn/trust/pool/kusdt_kdai_ci?tab=2</link>
+<description></description>
+<category>풀</category>
+<category>재예치</category>
+<category>스테이블</category>
+<category>오토팜</category>
+<category>디파이</category>
+<category>클레이</category>
+<category>클레이튼</category>
+<category>클레이스왑</category>
+<category>벨트</category>
+<category>김치</category>
+<category>프리미엄</category>
+<category>pool</category>
+<category>stable</category>
+<category>autofarm</category>
+<category>defi</category>
+<category>klay</category>
+<category>klaytn</category>
+<category>klayswap</category>
+<category>belt</category>
+<category>kimchi</category>
+<category>kusdt</category>
+<category>kdai</category>
+<category>usdt</category>
+<category>dai</category>
+<author>Bluewhale</author>
+<guid isPermaLink="true">https://bluewhale-protocol.com/klaytn/trust/pool/kusdt_kdai_ci?tab=2</guid>
+<pubDate>Wed, 28 Apr 2021 09:14:29 +0900</pubDate>
+</item>
+</channel>
+</rss>
